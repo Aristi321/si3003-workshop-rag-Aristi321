@@ -1,9 +1,9 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** …
-- **Código estudiantil:** …
-- **Usuario de GitHub:** …
-- **Fecha:** 21 de octubre de 2026
+- **Nombre:** Mateo Aristizabal Higuita
+- **Código estudiantil:** 1018235897
+- **Usuario de GitHub:** Aristi321
+- **Fecha:** 23 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
 ## Progreso
